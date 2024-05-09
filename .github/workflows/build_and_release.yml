@@ -30,6 +30,7 @@ jobs:
         run: jq -s '.[0]=([.[]]|flatten)|.[0]' studios/**/studio.json > dist/studios.json
       - name: Remove individual JSON files
         run: rm dist/studios/**/studio.json
+      - run: touch dist/.nojekyll
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:

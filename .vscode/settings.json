@@ -1,0 +1,10 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "**/studio.json"
+            ],
+            "url": ".github/studios.schema.json"
+        }
+    ]
+}

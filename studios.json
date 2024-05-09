@@ -1,5 +1,19 @@
 [
   {
+    "name": "ABC",
+    "machine-name": "abc",
+    "providers": {
+      "tvdb": "5",
+      "tmdb": "2",
+      "imdb": "co0037052"
+    },
+    "artwork": {
+      "thumb": [
+        "webp"
+      ]
+    }
+  },
+  {
     "name": "Arte",
     "machine-name": "arte",
     "providers": {

@@ -1,0 +1,343 @@
+[
+  {
+    "name": "Arte",
+    "machine-name": "arte",
+    "providers": {
+      "tvdb": "378",
+      "tmdb": "1628",
+      "imdb": "co0014456"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "AT-X",
+    "machine-name": "at-x",
+    "providers": {
+      "tvdb": "433",
+      "tmdb": "173",
+      "imdb": "co0035005"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "Comedy Central",
+    "machine-name": "coedy-central",
+    "providers": {
+      "tvdb": "1300",
+      "tmdb": "47",
+      "imdb": "co0029768"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "DR1",
+    "machine-name": "dr1",
+    "providers": {
+      "tvdb": "76",
+      "tmdb": "391",
+      "imdb": "co0503270"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "E!",
+    "machine-name": "e",
+    "providers": {
+      "tvdb": "87",
+      "tmdb": "76",
+      "imdb": "co0022548"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "FOX",
+    "machine-name": "fox",
+    "providers": {
+      "tvdb": "1305",
+      "tmdb": "19",
+      "imdb": "co0070925"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "France 2",
+    "machine-name": "france-2",
+    "providers": {
+      "tvdb": "105",
+      "tmdb": "361",
+      "imdb": "co0011107"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "France 3",
+    "machine-name": "france-3",
+    "providers": {
+      "tvdb": "106",
+      "tmdb": "249",
+      "imdb": "co0061460"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "France 4",
+    "machine-name": "france-4",
+    "providers": {
+      "tvdb": "107",
+      "tmdb": "511",
+      "imdb": "co0148003"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "France 5",
+    "machine-name": "france-5",
+    "providers": {
+      "tvdb": "108",
+      "tmdb": "255",
+      "imdb": "co0088445"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "France TV Slash",
+    "machine-name": "france-tv-slash",
+    "providers": {
+      "tvdb": "1233",
+      "tmdb": "2983"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "France TV",
+    "machine-name": "france-tv",
+    "providers": {
+      "tvdb": "17865",
+      "tmdb": "3856",
+      "imdb": "co0125554"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "Game Show Network",
+    "machine-name": "game-show-network",
+    "providers": {
+      "tvdb": "116",
+      "tmdb": "63"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "HBO",
+    "machine-name": "hbo",
+    "providers": {
+      "tvdb": "328",
+      "tmdb": "49",
+      "imdb": "co0008693"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "M6",
+    "machine-name": "m6",
+    "providers": {
+      "tvdb": "135",
+      "tmdb": "712",
+      "imdb": "co0037417"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "Netflix",
+    "machine-name": "netflix",
+    "providers": {
+      "tvdb": "535",
+      "tmdb": "213",
+      "imdb": "co0144901",
+      "anidb": "54015"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "TF1",
+    "machine-name": "tf1",
+    "providers": {
+      "tvdb": "260",
+      "tmdb": "290",
+      "imdb": "co0028766"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "USA Network",
+    "machine-name": "usa-network",
+    "providers": {
+      "tvdb": "301",
+      "tmdb": "30",
+      "imdb": "co0014957"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  }
+]

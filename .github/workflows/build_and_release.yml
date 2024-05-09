@@ -22,7 +22,7 @@ jobs:
       - name: Optimize source SVGs
         run: npx svgo --multipass dist/studios/**/*.svg
       - name: ImageMagick Action
-        uses: webknjaz/ImageMagick-action@patch-1
+        uses: dosaki/ImageMagick-action@patch-1
         with:
           # ImageMagick command to be executed
           command: mogrify -format webp dist/studios/**/*.svg

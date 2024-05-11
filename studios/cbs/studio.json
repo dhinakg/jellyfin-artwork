@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CBS",
+    "machine-name": "cbs",
+    "providers": {
+      "tvdb": "56",
+      "tmdb": "16",
+      "imdb": "co0070627"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

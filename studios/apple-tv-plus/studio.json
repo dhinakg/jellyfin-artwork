@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Apple TV+",
+    "machine-name": "apple-tv+",
+    "providers": {
+      "tvdb": "1289",
+      "tmdb": "2552",
+      "imdb": "co0546168"
+    },
+    "artwork": {
+      "thumb": ["webp"]
+    }
+  }
+]

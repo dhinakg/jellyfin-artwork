@@ -14,6 +14,20 @@
     }
   },
   {
+    "name": "Apple TV+",
+    "machine-name": "apple-tv+",
+    "providers": {
+      "tvdb": "1289",
+      "tmdb": "2552",
+      "imdb": "co0546168"
+    },
+    "artwork": {
+      "thumb": [
+        "webp"
+      ]
+    }
+  },
+  {
     "name": "Arte",
     "machine-name": "arte",
     "providers": {
@@ -39,6 +53,25 @@
       "tvdb": "433",
       "tmdb": "173",
       "imdb": "co0035005"
+    },
+    "artwork": {
+      "primary": [
+        "svg",
+        "webp"
+      ],
+      "thumb": [
+        "svg",
+        "webp"
+      ]
+    }
+  },
+  {
+    "name": "CBS",
+    "machine-name": "cbs",
+    "providers": {
+      "tvdb": "56",
+      "tmdb": "16",
+      "imdb": "co0070627"
     },
     "artwork": {
       "primary": [
